@@ -10,5 +10,4 @@ The data will be lost forever and if it is some sort of critical data like a ban
 What you need instead is a "middleman" that can store that critical data sent by the client, to than later on be processed by the server.
 Here even if the server is unavailable the data will still be available and can be processed later on when the server is running.
 
-Here below a diagram of how this looks like
-![Alt text](.vs/Untitled Diagram.drawio/to/img.jpg?raw=true "Title")
+![client/server communication with a queue](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/main/.vs/QueueDiagram1.drawio.png)
