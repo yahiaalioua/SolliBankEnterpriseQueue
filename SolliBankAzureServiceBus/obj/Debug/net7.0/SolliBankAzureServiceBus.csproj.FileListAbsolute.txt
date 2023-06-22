@@ -46,3 +46,13 @@ C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\
 C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\obj\Debug\net7.0\SolliBankAzureServiceBus.pdb
 C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\obj\Debug\net7.0\SolliBankAzureServiceBus.genruntimeconfig.cache
 C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\obj\Debug\net7.0\ref\SolliBankAzureServiceBus.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\projects\Azure\Service Bus\SolliBankAzureServiceBus\SolliBankAzureServiceBus\bin\Debug\net7.0\Serilog.Sinks.File.dll
