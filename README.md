@@ -11,3 +11,4 @@ What you need instead is a "middleman" that can store that critical data sent by
 Here even if the server is unavailable the data will still be available and can be processed later on when the server is running.
 
 Here below a diagram of how this looks like
+![Alt text](.vs/Untitled Diagram.drawio/to/img.jpg?raw=true "Title")
