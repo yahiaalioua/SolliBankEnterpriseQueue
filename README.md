@@ -11,3 +11,15 @@ What you need instead is a "middleman" that can store that critical data sent by
 Here even if the server is unavailable the data will still be available and can be processed later on when the server is running.
 
 ![client/server communication with a queue](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/main/.vs/QueueDiagram1.drawio.png)
+
+Now that we have an idea of how a queue can help us create a more fault tolerant system lets talk about the rules for implementing an enterprise queue.
+
+First of all when a message is being processed from the queue by a consumer, we should make sure that the message is locked and can`t be processed by other
+consumers.
+Once the message is processed there should be 2 outcomes:
+1) The message couldn´t be processed and therfore will fall into the dead letter queue or be deferred for a later retry.
+2) The message is processed succesfully and will be removed from the queue.
+
+![enterprise queue design](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/main/.vs/QueueDiagram2.drawio.png)
+
+The pattern mentioned above has been implemented using Azure Service Bus queue and .Net
