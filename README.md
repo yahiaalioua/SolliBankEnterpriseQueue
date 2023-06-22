@@ -10,7 +10,7 @@ The data will be lost forever and if it is some sort of critical data like a ban
 What you need instead is a "middleman" that can store that critical data sent by the client, to later on be processed by the server.
 Here even if the server is unavailable the data will still be available and can be processed later on when the server is running.
 
-![client/server communication with a queue]([https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/main/.vs/QueueDiagram1.drawio.png](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/commit/ee41081d44940016d2d45f99884610463aa1b6c0))
+![client/server communication with a queue](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/ee41081d44940016d2d45f99884610463aa1b6c0/.vs/QueueDiagram1.drawio.png)
 
 Now that we have an idea of how a queue can help us create a more fault tolerant system lets talk about the rules for implementing an enterprise queue.
 
