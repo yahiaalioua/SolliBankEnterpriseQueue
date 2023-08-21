@@ -20,6 +20,6 @@ Once the message is processed there should be 2 outcomes:
 1) The message couldn´t be processed and therfore will fall into the dead letter queue or be deferred for a later retry.
 2) The message is processed succesfully and will be removed from the queue.
 
-![enterprise queue design](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/main/.vs/QueueDiagram2.drawio.png)
+![enterprise queue design](https://github.com/yahiaalioua/SolliBankEnterpriseQueue/blob/main/QueueDiagram2.drawio%20(1).png)
 
 The pattern mentioned above has been implemented using Azure Service Bus queue and .Net
